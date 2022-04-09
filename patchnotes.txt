@@ -1,0 +1,11 @@
+
+
+
+
+
+DONE:
+trocar o nome de tags para categorias;
+arrumar a inserção de novas categorias com espaço; - ISSO FOI UM PORRE...
+colocar o sim ou não nas opções ao invez de somente numeros;
+fazer o programa entrar em loop para novas pesquisas;
+avaliar inserção de numeros para seleção de categorias; - inviavel
